@@ -1,4 +1,4 @@
-![SMB_example](https://github.com/user-attachments/assets/ae6d1cc8-93b1-4023-8a7d-6451d8869453)<h1>Overview</h1>
+<h1>Overview</h1>
 <p>In this file,  I am simply documenting how I created the vulnerable network that is to be used for the vulnerability and risk assessment. I am not going to make it extremely complex as I have limited resources
 and my goal is to learn and simulate the real deal for educational experience. My goal is not to solve an extremely complex problem. Grasping the fundamentals, proving that I have the compentancy to perform these kinds of assessments is my main goal.
 The concepts are the same no matter what kind of scope, therefor this virtual network is not going to be anything crazy, I will do my best to emulate a smaller-medium sized business's network</p>
