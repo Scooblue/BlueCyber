@@ -1,4 +1,4 @@
-#SIEM Automation (WAZUH, THEHIVE)
+SIEM Automation (WAZUH, THEHIVE)
 
 <h1>Abstract</h1>
 
